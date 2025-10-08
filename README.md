@@ -1,44 +1,102 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
+
 </div>
 
 ---
 
-### 👋  Hello, I'm **Mohamed Abdo El Moniem** 
-I'm a passionate computer science student who loves learning and building creative web systems.  
-I'm currently studying at university and working on a **college project** built with **Java**.
+### 👋 Hello, I'm **Mohamed Abdo El Moniem**
+
+I'm a passionate **Computer Science student** who loves learning and building creative web systems.  
+Currently, I'm studying at university and developing a **college web project** using **Java**.
 
 💡 I have experience in:
-- **C++**, **Python**, **HTML**, **CSS**, **C#**, and **JavaScript**.  
-- Currently learning **Java** for my latest web project.  
-- Interested in **Web Development** and **Software Engineering**.
+- **C++**, **Python**, **HTML**, **CSS**, **C#**, and **JavaScript**  
+- Currently improving my **Java** skills for backend and web development  
+- Deeply interested in **Web Development** and **Software Engineering**
 
-🎯 My goal is to build **professional, functional, and user-friendly web systems** that make a real difference.
+🎯 My goal is to build **professional, functional, and user-friendly web systems** that make a real impact.
 
 ---
 
-### 🧠 Languages & Tools I Use
+### 🧠 Languages & Tools I Use  
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+Here’s a list of the programming languages, tools, and technologies I use — each one plays an important role in my learning journey.  
+
+---
+
+#### 💻 Programming Languages  
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+I use **C++** for problem-solving and understanding fundamental programming concepts like OOP and data structures.
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
+I build **Windows** and **ASP.NET Web Forms** applications using C#, mainly for university and ITI projects.
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)  
+I use **Python** for automation tasks, data manipulation, and scripting.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
+Currently focusing on **Java**, especially for backend systems and academic projects.
+
+---
+
+#### 🌐 Web Development  
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+
+I design and develop **responsive web pages** using **HTML**, **CSS**, and **JavaScript**.  
+I focus on clean structure, usability, and attractive interfaces — often using **Bootstrap** and modern UI techniques.
+
+---
+
+#### 🧰 Tools & Platforms  
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=black)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=black)  
+
+- **Git & GitHub:** For version control and team collaboration  
+- **VS Code:** My main editor for web and multi-language development  
+- **Figma & Photoshop:** For UI/UX design and visual prototyping  
+
+---
+
+### 📘 Currently Learning  
+
+🚀 Expanding my skills in **Java**, exploring **Spring Boot**, and learning more about **MySQL** and **SQL Server** integration.  
+I'm also experimenting with **React** to enhance frontend interactivity and user experience.
+
+---
+
+### 🤝 Team Projects  
+
+<div align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/teamwork.gif?raw=true" alt="Teamwork Animation" width="60%"/>
+</div>
+
+💻 **College Web System Project**  
+I’m collaborating with my university team to build a **Professional Faculty Web System** using **ASP.NET Web Forms** and **SQL Server**.  
+The system aims to simplify communication between students and faculty through these modules:  
+- 🧾 **User registration & login**  
+- 👤 **Personal profiles & diaries**  
+- 📰 **Faculty news section**    
+- 💬 **Contact & feedback system**
+
+🎯 **My Role:** Backend & Database Developer  
+Responsible for database management, registration logic, and backend–frontend integration.
 
 ---
 
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="www.linkedin.com/in/mohamed-riyad-998279325" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-riyad-998279325" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://t.me/mohamed_abdo_El_monem" target="_blank">
@@ -55,9 +113,8 @@ I'm currently studying at university and working on a **college project** built 
 ---
 
 <div align="center">
-
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=MohamedAbdoElMoniem&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MohamedAbdoElMoniem&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 
 </div>
 
