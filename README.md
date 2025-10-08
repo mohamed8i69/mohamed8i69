@@ -2,14 +2,12 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br>
-
 </div>
 
 ---
 
-### 👋 About Me  
-Hello, I'm **Mohamed Abdo El Moniem**,  
-a passionate computer science student who loves learning and building creative web systems.  
+### 👋  Hello, I'm **Mohamed Abdo El Moniem** 
+I'm a passionate computer science student who loves learning and building creative web systems.  
 I'm currently studying at university and working on a **college project** built with **Java**.
 
 💡 I have experience in:
