@@ -47,19 +47,19 @@ Currently focusing on **Java**, especially for backend systems and academic proj
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-I design and develop **responsive web pages** using **HTML**, **CSS**, and **JavaScript**.  
+I design and develop **responsive web pages** using **HTML**, **CSS**, and **JavaScript**.
 I focus on clean structure, usability, and attractive interfaces — often using **Bootstrap** and modern UI techniques.
 
 ---
 
-#### 🧰 Tools & Platforms  
+#### 🧰 Tools & Platforms
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=black)  
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=black)
 
 - **Git & GitHub:** For version control and team collaboration  
 - **VS Code:** My main editor for web and multi-language development  
@@ -88,7 +88,7 @@ The system aims to simplify communication between students and faculty through t
 - 📰 **Faculty news section**    
 - 💬 **Contact & feedback system**
 
-🎯 **My Role:** Backend & Database Developer  
+🎯 **My Role:** Frontend & Backend & Database Developer  
 Responsible for database management, registration logic, and backend–frontend integration.
 
 ---
@@ -102,7 +102,7 @@ Responsible for database management, registration logic, and backend–frontend 
   <a href="https://t.me/mohamed_abdo_El_monem" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://github.com/MohamedAbdoElMoniem" target="_blank">
+  <a href="https://github.com/mohamed8i69" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:mhomedabdo2271@gmail.com" target="_blank">
